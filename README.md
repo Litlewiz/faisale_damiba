@@ -1,21 +1,17 @@
 <!-- =====================================================================
-  README de profil GitHub — Faisale DAMIBA
+  README de profil GitHub — Faisale DAMIBA (structure identique au CV)
   À placer dans un dépôt PUBLIC nommé exactement comme ton nom d'utilisateur
   GitHub (ex. github.com/TON-USERNAME/TON-USERNAME), fichier README.md.
-  Remplace tous les "TON-USERNAME" et "NOM-DU-DEPOT" avant de publier.
+  Remplace "TON-USERNAME" et "NOM-DU-DEPOT" avant de publier.
 ====================================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4F72,100:E67E22&height=200&section=header&text=Faisale%20DAMIBA&fontSize=46&fontColor=ffffff&desc=Information%20Management%20%7C%20GIS%20%26%20Remote%20Sensing&descSize=18&descAlignY=68" alt="Bannière Faisale DAMIBA" />
+# FAISALE DAMIBA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=1B4F72&center=true&vCenter=true&width=640&lines=Gestion+de+l'information+humanitaire;SIG+%26+T%C3%A9l%C3%A9d%C3%A9tection;Tableaux+de+bord+R%2FShiny+%26+Power+BI;Donn%C3%A9es+au+service+de+la+d%C3%A9cision" alt="Typing SVG" />
+**Information Management | Data Management | GIS & Télédétection Specialist | Geospatial Analysis**
 
-<br/>
-
-![Focus](https://img.shields.io/badge/FOCUS-HUMANITARIAN%20DATA-1B4F72?style=flat-square)
-![Niveau](https://img.shields.io/badge/POSITION-SENIOR%20GIS%20OFFICER-E67E22?style=flat-square)
-![Zone](https://img.shields.io/badge/ZONE-BURKINA%20FASO%20%7C%20SAHEL-2E7D32?style=flat-square)
+Ouagadougou, Burkina Faso
 
 <a href="https://www.linkedin.com/in/fa%C3%AFsale-damiba-61b555154/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://tech-gis.shinyapps.io/mon_portfolio/"><img src="https://img.shields.io/badge/Portfolio-E67E22?style=for-the-badge&logo=rstudioide&logoColor=white" alt="Portfolio"/></a>
@@ -25,86 +21,128 @@
 
 ---
 
-## 👋 À propos
+## PROFIL
 
-- 📍 Ouagadougou, Burkina Faso
-- 🌍 **Chargé SIG Senior** chez **ACTED / REACH** : je gère l'information au sein du cycle des évaluations humanitaires (**MSNA**, **HSM**, **RNA**, évaluations rapides en santé et nutrition), dont les résultats alimentent le **HNRP** et s'inscrivent dans le cadre du **JIAF**.
-- 🛰️ Master professionnel en **SIG et Télédétection** (Université Joseph KI-ZERBO, mention bien) et formation de base en Géographie.
-- 🧰 J'aime automatiser le nettoyage, le contrôle qualité et la restitution des données : scripts **R** et **Python**, bases **PostgreSQL/PostGIS**, dashboards **Shiny** et **Power BI**.
-- 🎓 Je forme et accompagne des équipes internes et des partenaires sur les outils de collecte, les SIG et la visualisation.
-- 🌱 En ce moment : préparation à l'action anticipatoire (inondations, sécheresse) et analyses de télédétection avec **Google Earth Engine**.
-- 💬 Parle-moi de : gestion de l'information humanitaire, échantillonnage spatial, contrôle qualité de données, cartographie, télédétection.
+Spécialiste en gestion de l'information, SIG et télédétection avec une expérience progressive au sein d'ACTED/REACH Burkina Faso, actuellement Chargé SIG Senior. Expérience dans la gestion de l'information au sein du cycle des évaluations humanitaires multisectorielles, notamment les Évaluations Multisectorielles des Besoins (MSNA), Humanitarian Situation Monitoring (HSM), Rapid Needs Assessments (RNA) et les évaluations rapides en santé et nutrition, dont les résultats alimentent le Humanitarian Needs and Response Plan (HNRP) et s'inscrivent dans le cadre du JIAF.
+
+Compétences solides en conception et gestion de systèmes de collecte de données, contrôle qualité, nettoyage et analyse de données, échantillonnage spatial, production de produits d'information et développement de tableaux de bord. Expérience pratique avec KoboToolbox, ArcGIS Survey123, SurveyCTO, Power BI, R/Shiny, ArcGIS Dashboard et les bases de données PostgreSQL/PostGIS.
+
+Habitué à travailler avec des équipes d'évaluation, des équipes terrain, des partenaires humanitaires et des acteurs institutionnels, avec une attention particulière portée à la qualité, à la confidentialité, à l'accessibilité et à la documentation des données. Expérience dans la formation et le renforcement des capacités des équipes sur les outils de gestion de données, SIG, collecte et visualisation.
 
 ---
 
-## 🛠️ Compétences
+## COMPÉTENCES CLÉS
 
-**Gestion de données & analyse**
+- **Gestion de l'information humanitaire :** appui au cycle des évaluations, protocoles méthodologiques et plans d'analyse, contrôle qualité, nettoyage et validation des données, suivi spatial des activités de collecte, production et diffusion de produits d'information, contribution de données aux processus HNRP/JIAF
+- **SIG & cartographie :** ArcGIS Pro, ArcGIS Online, QGIS ; bases pour environnement ArcGIS Enterprise/ArcGIS Server
+- **Télédétection & analyse spatiale :** Google Earth Engine (JavaScript & Python), ENVI, imagerie Sentinel-1/2, Landsat, classification Land Use Land Cover et suivi du changement (Random Forest)
+- **Bases de données géospatiales :** PostgreSQL/PostGIS, structuration, intégration et contrôle qualité de données multi-sources
+- **Automatisation & programmation :** R (tidyverse, sf, terra, impactR), Python (bases), scripts de nettoyage et de traitement en masse
+- **Visualisation & reporting :** tableaux de bord interactifs (Shiny R, Power BI, ArcGIS Dashboard), web mapping, Leaflet
+- **Outils de collecte de terrain :** KoboToolbox, SurveyCTO, ArcGIS Survey123, CommCare, GPS
+- **Gestion de projet & renforcement de capacités :** encadrement d'équipe, formation SIG/télédétection, rédaction de protocoles méthodologiques et de Termes de Référence
+- **Bureautique & collaboration :** maîtrise avancée d'Excel, suite Microsoft Office (Word, PowerPoint, Access), SharePoint, Outlook, Teams
+- **Sécurité de l'information :** gestion des droits d'accès, protection des données sensibles, protocoles de confidentialité
+- **Langues :** français (courant), anglais (opérationnel)
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-1B4F72?style=flat-square&logo=rstudioide&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2FPostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**SIG, cartographie & télédétection**
-
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS%20Pro%20%2F%20Online-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Sentinel--1%2F2%20%7C%20Landsat-0B3D91?style=flat-square)
-
-**Collecte de terrain**
-
 ![KoboToolbox](https://img.shields.io/badge/KoboToolbox-1B4F72?style=flat-square)
-![SurveyCTO](https://img.shields.io/badge/SurveyCTO-E67E22?style=flat-square)
-![Survey123](https://img.shields.io/badge/ArcGIS%20Survey123-2C7AC3?style=flat-square)
-![CommCare](https://img.shields.io/badge/CommCare-2E7D32?style=flat-square)
-
-**Outils de travail**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 
 ---
 
-## 🚀 Projets
+## EXPÉRIENCE PROFESSIONNELLE
 
-> Le code est publié avec des données **synthétiques ou anonymisées** : les données humanitaires collectées restent confidentielles.
+### Chargé SIG Senior | ACTED – REACH, Ouagadougou, Burkina Faso
+*Novembre 2025 – Présent*
+
+- Supervision de l'ensemble des activités SIG, télédétection et analyse spatiale pour les évaluations (MSNA 2025 et 2026, HSM, RNA 2024-2025)
+- Conception et production de cartes thématiques, webmaps et analyses spatiales pour la planification humanitaire (Cluster, OCHA, partenaires ACTED)
+- Sélection d'images satellitaires adaptées aux besoins d'analyse (risques climatiques, dégradation des terres, étalement urbain, occupation/utilisation des sols)
+- Soutien à la mise en œuvre des évaluations : échantillonnage, implémentation d'outils de collecte, nettoyage et analyse des données
+- Mise en place d'outils de suivi qualité : scripts de nettoyage, cartes d'itinéraires, atlas de suivi spatial, tableaux de bord (Power BI, R, ArcGIS Dashboard), contrôle quotidien des données terrain
+- Développement de dashboards interactifs (Shiny R) pour la restitution des résultats MSNA 2025 aux partenaires humanitaires nationaux
+- Encadrement direct d'un assistant SIG ; renforcement des capacités des équipes internes et partenaires (SIG, gestion de données, analyses spatiales, visualisation)
+- Coordination avec les équipes d'évaluation et le siège IMPACT/REACH ; représentation dans les groupes de travail SIG/IM nationaux
+
+### Chargé SIG, Télédétection & Données | ACTED – REACH, Ouagadougou, Burkina Faso
+*Juillet 2024 – Mars 2025 & Juin 2025 – Octobre 2025*
+
+- Supervision des activités SIG, télédétection et analyse spatiale (MSNA 2024-2025, HSM, RNA 2024, évaluation en santé et nutrition 2024-2025)
+- Production de cartes thématiques, webmaps et analyses spatiales pour la planification humanitaire
+- Outils de suivi de la qualité des données pendant les collectes : scripts de nettoyage, cartes d'itinéraires, atlas de suivi spatial, dashboards
+- Conception de tableaux de bord (Power BI, R) pour la visualisation des données et la présentation des résultats
+- Renforcement des capacités internes et partenaires ; engagement avec les acteurs humanitaires et institutionnels
+
+### Assistant SIG, Télédétection & Données | ACTED – REACH, Ouagadougou, Burkina Faso
+*Mai 2023 – Juin 2024*
+
+- Production de cartes thématiques, webmaps et analyses spatiales pour la planification humanitaire
+- Élaboration et implémentation d'outils de collecte de données
+- Soutien à la mise en œuvre des évaluations (échantillonnage, conception d'outils, nettoyage et analyse) ; cleaning log et atlas de suivi spatial
+- Renforcement des capacités internes et partenaires sur la gestion de données et la cartographie
+
+### Agent Cartographe | Centre National Baha'i, Ouagadougou, Burkina Faso
+*Décembre 2022 – Janvier 2023 & Mars 2025 – Mai 2025*
+
+- Localisation et représentation spatiale des zones d'intervention
+- Intégration des données terrain et sectorielles pour visualiser les activités par zone et type d'intervention
+- Cartes analytiques d'indicateurs clés et supports visuels pour rapports et présentations
+
+---
+
+## PROJETS CLÉS
+
+### Évaluation Multisectorielle des Besoins – MSNA 2024, 2025 & 2026
+Protocoles de recherche · échantillonnage spatial · conception et déploiement des outils de collecte · formation et appui aux équipes terrain · suivi géospatial de la collecte · contrôle qualité et nettoyage · cartes et produits d'information · dashboard Shiny R de restitution des résultats MSNA 2025.
+[Code](https://github.com/TON-USERNAME/NOM-DU-DEPOT)
+
+### Évaluations rapides intégrées en santé et nutrition – 2024-2026
+Codage et implémentation des outils KoboToolbox · échantillonnage spatial · suivi spatial de la collecte · production et mise à jour des cartes opérationnelles.
+
+### Disaster Preparedness (2026-2028)
+Analyse spatiale des aléas climatiques (inondations, sécheresse) et de l'étalement urbain · informations géospatiales pour la préparation et l'anticipation · fiches d'information · révision et identification de déclencheurs · renforcement des capacités SIG et données des partenaires et autorités locales.
+
+### Projets techniques (dépôts publics)
+
+> Code publié avec des données **synthétiques ou anonymisées** : les données humanitaires collectées restent confidentielles.
 
 | Projet | Description | Stack | Lien |
 |---|---|---|---|
-| 📊 **Dashboard MSNA (restitution)** | Tableau de bord interactif pour restituer les résultats de l'évaluation multisectorielle des besoins aux partenaires humanitaires | R, Shiny | [Code](https://github.com/TON-USERNAME/NOM-DU-DEPOT) |
-| 🧹 **Contrôle qualité des données de collecte** | Scripts de nettoyage, cartes d'itinéraires et atlas de suivi spatial pour le contrôle quotidien des données terrain | R, PyQGIS, ArcGIS Dashboard | [Code](https://github.com/TON-USERNAME/NOM-DU-DEPOT) |
-| 🏘️ **Extraction de bâtiments & détection de changements** | Pipeline automatisé d'extraction d'emprises de bâtiments et d'analyse diachronique | Python | [Code](https://github.com/TON-USERNAME/NOM-DU-DEPOT) |
-| 🌊 **Susceptibilité aux inondations** | Cartographie de la susceptibilité aux inondations par analyse multicritère (AHP/WLC) et imagerie satellitaire | Google Earth Engine, SAR | [Code](https://github.com/TON-USERNAME/NOM-DU-DEPOT) |
-| 🌾 **Analyse de la sécheresse** | Suivi de la sécheresse par télédétection (indices SPI, SPEI, VCI) | Google Earth Engine | [Code](https://github.com/TON-USERNAME/NOM-DU-DEPOT) |
-| 🗺️ **Portfolio cartographique** | Sélection de cartes thématiques, webmaps et applications | Shiny, Leaflet | [Voir le portfolio](https://tech-gis.shinyapps.io/mon_portfolio/) |
+| Extraction de bâtiments | Pipeline automatisé d'extraction d'emprises de bâtiments et d'analyse diachronique | Python | [Code](https://github.com/TON-USERNAME/NOM-DU-DEPOT) |
+| Susceptibilité aux inondations | Cartographie par analyse multicritère (AHP/WLC) et imagerie satellitaire | Google Earth Engine, SAR | [Code](https://github.com/TON-USERNAME/NOM-DU-DEPOT) |
+| Analyse de la sécheresse | Suivi par télédétection (SPI, SPEI, VCI) | Google Earth Engine | [Code](https://github.com/TON-USERNAME/NOM-DU-DEPOT) |
+| Portfolio cartographique | Cartes thématiques, webmaps et applications | Shiny, Leaflet | [Voir le portfolio](https://tech-gis.shinyapps.io/mon_portfolio/) |
+
+**Publication :** article scientifique en collaboration avec un chercheur de l'Institut des Sciences des Sociétés (INSS).
 
 ---
 
-## 📈 Statistiques GitHub
+## FORMATION
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&hide_border=true&title_color=1B4F72&icon_color=E67E22&text_color=333333&bg_color=00000000" alt="Stats GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&hide_border=true&title_color=1B4F72&text_color=333333&bg_color=00000000" alt="Langages principaux" />
-
-</div>
+- **Master professionnel SIG et Télédétection appliquée à l'Aménagement, la Gestion de l'Environnement et du Développement Durable (SIG-AGEDD)** : Université Joseph KI-ZERBO, Ouagadougou, 2020-2023, mention bien (17/20)
+- **Licence en Géographie** : Université Norbert Zongo, Koudougou, 2016-2018
 
 ---
 
-## 📫 Me contacter
+## FORMATIONS ET CERTIFICATIONS
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fa%C3%AFsale-damiba-61b555154/)
-- 🌐 [Portfolio](https://tech-gis.shinyapps.io/mon_portfolio/)
-- ✉️ [faisaledamiba@gmail.com](mailto:faisaledamiba@gmail.com)
+- Développement mobile, niveaux intermédiaire et approfondi : Organisation Internationale de la Francophonie, projet D-CLIC (2025)
+- Fondements de l'action humanitaire, gestion de projet, MEAL en situations d'urgence : Cornerstone OnDemand Foundation, DisasterReady (2025)
+- Introduction à la statistique avec R : Université Paris-Saclay, France Université Numérique (2024)
+- The Data Scientist's Toolbox : Université Johns Hopkins, Coursera (2024)
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E67E22,100:1B4F72&height=100&section=footer" alt="Pied de page" />
+📫 [LinkedIn](https://www.linkedin.com/in/fa%C3%AFsale-damiba-61b555154/) · 🌐 [Portfolio](https://tech-gis.shinyapps.io/mon_portfolio/) · ✉️ [faisaledamiba@gmail.com](mailto:faisaledamiba@gmail.com)
 
 </div>
