@@ -188,6 +188,15 @@ Appui aux activités SIG, collecte, nettoyage, analyse et visualisation des donn
 
 ---
 
+### **Agent Cartographe  — Centre National Baha'i**
+
+📍 Ouagadougou, Burkina Faso
+**Décembre 2022 – Janvier 2023 & Mars 2025 – Mai 2025**
+
+Appui aux activités SIG, collecte, nettoyage, analyse et visualisation des données dans le cadre des évaluations humanitaires.
+
+---
+
 # 🎓 Formation
 
 ### 🎓 Master professionnel — SIG & Télédétection
